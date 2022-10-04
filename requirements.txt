@@ -6,4 +6,4 @@ pipenv==2022.6.7
 scipy==1.6.2
 streamlit==1.9.2
 virtualenv==20.14.1
-pyxlsb==*
+pyxlsb==1.0.9
