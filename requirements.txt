@@ -69,7 +69,6 @@ pandas==1.4.2
 pandocfilters==1.5.0
 parso==0.8.3
 pickleshare==0.7.5
-PIL==2.0+dummy
 Pillow==9.1.1
 pipenv==2022.6.7
 pipwin==0.5.1
